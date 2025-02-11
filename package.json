@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@remix-run/node": "^2.15.3",
+    "@legendapp/state": "v3.0.0-beta.26",
     "@remix-run/react": "^2.15.3",
     "@remix-run/serve": "^2.15.3",
     "isbot": "^4.1.0",
